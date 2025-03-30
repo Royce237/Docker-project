@@ -1,2 +1,17 @@
 
 /** ADD YOUR AWESOME CODES HERE **/
+/******************************************
+    Version: 1.0
+/****************************************** */
+
+.customwidget li i,
+.navbar-nav span {
+    color: #db00ce !important;
+}
+
+.lead strong,
+.icon-wrapper:hover a,
+a:hover,
+a:focus {
+    color: #2750ff
+}
