@@ -1,0 +1,4 @@
+FROM nginx:1.26.3-alpine-perl
+WORKDIR /usr/share/nginx/html
+COPY ./ ./
+EXPOSE 80
